@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014760256752",
+    "project_id": "hjgjgyu-6f8f2",
+    "storage_bucket": "hjgjgyu-6f8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014760256752:android:e130346d1f2b9ee162fe35",
+        "android_client_info": {
+          "package_name": "com.example.codeday12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-j32sbPM9HiTmIKmn03b65a1oOxjGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
